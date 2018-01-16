@@ -1,0 +1,4 @@
+vhdl isim_temp "half.vhd"
+vhdl isim_temp "full.vhd"
+vhdl isim_temp "wtree.vhd"
+vhdl isim_temp "testbench.vhd"

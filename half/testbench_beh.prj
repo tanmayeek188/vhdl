@@ -1,0 +1,5 @@
+vhdl work "half.vhd"
+vhdl work "full.vhd"
+vhdl work "fiveadder.vhd"
+vhdl work "wtree.vhd"
+vhdl work "testbench.vhd"
